@@ -1,5 +1,6 @@
 # vue3-task2
 
+Курсовая работа, выполненная в процессе обучения технологии Vue3 по курсу от Vladilen Minin
 ## Project setup
 ```
 npm install
